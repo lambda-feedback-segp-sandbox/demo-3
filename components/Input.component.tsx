@@ -18,6 +18,7 @@ const useStyles = makeStyles()(theme => ({
   textarea: {
     width: '100%',
     minHeight: theme.spacing(20),
+    color: 'red'
   },
 }))
 
